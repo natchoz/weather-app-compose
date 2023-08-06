@@ -1,4 +1,4 @@
-package com.example.weatherappcompose
+package com.natcho.weatherappcompose
 
 import org.junit.Test
 
